@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/business-rotondo/static/css/main.d73e7181.css",
-    "main.js": "/business-rotondo/static/js/main.8e3b9a4a.js",
+    "main.js": "/business-rotondo/static/js/main.4d405815.js",
     "static/js/787.0d59369d.chunk.js": "/business-rotondo/static/js/787.0d59369d.chunk.js",
     "static/media/logo.svg": "/business-rotondo/static/media/logo.1583820ed74e2d213bfee2bffac7285e.svg",
     "index.html": "/business-rotondo/index.html",
     "main.d73e7181.css.map": "/business-rotondo/static/css/main.d73e7181.css.map",
-    "main.8e3b9a4a.js.map": "/business-rotondo/static/js/main.8e3b9a4a.js.map",
+    "main.4d405815.js.map": "/business-rotondo/static/js/main.4d405815.js.map",
     "787.0d59369d.chunk.js.map": "/business-rotondo/static/js/787.0d59369d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d73e7181.css",
-    "static/js/main.8e3b9a4a.js"
+    "static/js/main.4d405815.js"
   ]
 }
