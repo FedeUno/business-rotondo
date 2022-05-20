@@ -42,7 +42,7 @@ function App({value}) {
         </div>
          <a
           className="App-link"
-          href="https://reactjs.org" //reemplazar por enlace al repositorio
+          href="https://github.com/FedeUno/business-rotondo.git" 
           target="_blank"
           rel="noopener noreferrer"
         >
